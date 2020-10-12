@@ -1,0 +1,189 @@
+.cover{
+	border:none;
+	text-align:center;
+	width:300px;
+	height:450px;
+	position:absolute;
+	left:10%;
+	top:20%;
+	border-radius:8px;
+	
+	
+}
+.subcover{
+	border-bottom:none;
+	background:black;
+	width:300px;
+	height:450px;
+	opacity:0.6;
+	border-radius:none;
+}
+.coverimage{
+	 text-align:center;
+}
+.line{
+	border-bottom:2px solid white;
+	position:absolute;
+	top:65%;
+	left:15%;
+	width:220px;
+	box-shadow:1px 0px 4px;
+	color:#ff523b;
+}
+.fa-circle{
+	color:#ff523b;
+	position:absolute;
+	left:35%;
+	margin:-7px;
+}
+.text{
+	position:absolute;
+	left:31%;
+	top:50%;
+	margin:-1px 10px;
+}
+img.s5{
+	border-radius:20px;
+	position:absolute;
+	left:20%;
+	top:10%;
+	margin:-10px -9px;
+	opacity:0.7;
+}
+.player{
+	border-bottom:1px solid white;
+	font-size:60px;
+	
+}
+
+.fa-pause-circle{
+	color:#ff523b;
+	position:absolute;
+	left:43%;
+top:72%;}
+
+.forward{
+	font-size:44px;
+}
+
+.fa-forward{
+	color:white;
+	position:absolute;
+	left:63%;
+	top:74%;
+}
+.forward:hover{
+	font-size:50px;
+}
+.backward{
+	font-size:44px;
+}
+.fa-backward{
+	color:white;
+	position:absolute;
+	left:26%;
+	top:74%;
+	
+}
+.backward:hover{
+	font-size:50px;
+}
+.retweet{
+	font-size:20px;
+	font-weight:normal;
+}
+.fa-retweet{
+	color:#ff523b;
+	position:absolute;
+	left:16%;
+	top:77%;
+}
+.repeat{
+	font-size:20px;
+}
+.fa-repeat{
+	color:#ff523b;
+	position:absolute;
+	left:80%;
+	top:77%;
+}
+.context{
+	position:absolute;
+	left:35%;
+	top:20%;
+	
+}
+h3.h3s{
+	position:absolute;
+	left:15%;
+	top:67%;
+	font-size:14px;
+	color:white;
+	font-family:kulim park,sans-serif;
+	font-weight:normal;
+}
+h4.h4s{
+	position:absolute;
+	left:81%;
+	top:67%;
+	font-size:14px;
+	color:white;
+	font-family:kulim park,sans-serif;
+	font-weight:normal;
+}
+h1.h1s{
+	color:black;
+	font-family:kulim park,sans-serif;
+	line-height:7px;
+	font-weight:normal;
+	opacity:0.3;
+	left:0%;
+	
+	position:absolute;
+	top:65%;
+}
+h2.h2s{
+	color:black;
+	font-family:kulim park,sans-serif;
+	font-weight:normal;
+	font-size:14px;
+	opacity:0.3;
+	margin-top:-6px;
+}
+	
+
+.number{
+	
+}
+p.ps{
+	font-size:14px;
+	word-spacing:4px;
+	letter-spacing:0.2cm;
+}
+input[type=text]{
+	width: 20%;
+  
+  
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  
+  
+  
+  
+  
+  
+}
+button{
+  
+  
+  
+  background:#ff523b;
+  color:black;
+  font-size:17px;
+  border:1px solid #ff523b;
+  border-left:none;
+  cursor:pointer;
+}
